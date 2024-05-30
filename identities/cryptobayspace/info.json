@@ -1,9 +1,8 @@
 {
-  "description": "Service Stacking Provider",
+  "description": "CryptoBay provides essential tools for builders, including in-depth documentation and a smart wallet for portfolio management. It supports growth and innovation in the ecosystem.",
   "name": "CryptoBay",
-  "twitter": "https://twitter.com/cryptobayspace",
-  "location": "Earth",
-  "owners": [
-    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqq8llllls4xn0vm"
-  ]
+  "website": "https://cryptobay.space",
+  "twitter": "CryptoBaySpace",
+  "location": "Europe",
+  "owners": ["erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqq8llllls4xn0vm"]
 }
